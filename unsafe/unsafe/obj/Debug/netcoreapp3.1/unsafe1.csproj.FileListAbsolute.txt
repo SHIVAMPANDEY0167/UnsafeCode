@@ -1,0 +1,14 @@
+C:\Users\shivam.pandey\source\repos\unsafe\unsafe\bin\Debug\netcoreapp3.1\unsafe1.exe
+C:\Users\shivam.pandey\source\repos\unsafe\unsafe\bin\Debug\netcoreapp3.1\unsafe1.deps.json
+C:\Users\shivam.pandey\source\repos\unsafe\unsafe\bin\Debug\netcoreapp3.1\unsafe1.runtimeconfig.json
+C:\Users\shivam.pandey\source\repos\unsafe\unsafe\bin\Debug\netcoreapp3.1\unsafe1.runtimeconfig.dev.json
+C:\Users\shivam.pandey\source\repos\unsafe\unsafe\bin\Debug\netcoreapp3.1\unsafe1.dll
+C:\Users\shivam.pandey\source\repos\unsafe\unsafe\bin\Debug\netcoreapp3.1\unsafe1.pdb
+C:\Users\shivam.pandey\source\repos\unsafe\unsafe\obj\Debug\netcoreapp3.1\unsafe1.csproj.AssemblyReference.cache
+C:\Users\shivam.pandey\source\repos\unsafe\unsafe\obj\Debug\netcoreapp3.1\unsafe1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shivam.pandey\source\repos\unsafe\unsafe\obj\Debug\netcoreapp3.1\unsafe1.AssemblyInfoInputs.cache
+C:\Users\shivam.pandey\source\repos\unsafe\unsafe\obj\Debug\netcoreapp3.1\unsafe1.AssemblyInfo.cs
+C:\Users\shivam.pandey\source\repos\unsafe\unsafe\obj\Debug\netcoreapp3.1\unsafe1.csproj.CoreCompileInputs.cache
+C:\Users\shivam.pandey\source\repos\unsafe\unsafe\obj\Debug\netcoreapp3.1\unsafe1.dll
+C:\Users\shivam.pandey\source\repos\unsafe\unsafe\obj\Debug\netcoreapp3.1\unsafe1.pdb
+C:\Users\shivam.pandey\source\repos\unsafe\unsafe\obj\Debug\netcoreapp3.1\unsafe1.genruntimeconfig.cache

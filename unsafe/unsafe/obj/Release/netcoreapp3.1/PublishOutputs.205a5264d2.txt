@@ -1,0 +1,5 @@
+C:\Users\shivam.pandey\source\repos\unsafe\unsafe\bin\Release\netcoreapp3.1\publish\unsafe1.exe
+C:\Users\shivam.pandey\source\repos\unsafe\unsafe\bin\Release\netcoreapp3.1\publish\unsafe1.dll
+C:\Users\shivam.pandey\source\repos\unsafe\unsafe\bin\Release\netcoreapp3.1\publish\unsafe1.deps.json
+C:\Users\shivam.pandey\source\repos\unsafe\unsafe\bin\Release\netcoreapp3.1\publish\unsafe1.runtimeconfig.json
+C:\Users\shivam.pandey\source\repos\unsafe\unsafe\bin\Release\netcoreapp3.1\publish\unsafe1.pdb
